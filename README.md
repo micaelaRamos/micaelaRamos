@@ -2,7 +2,7 @@
 
 👀  I’m interested in product development, I am passionate about it, I love being involved on finding an opportunity design the solution, implement it and  know how it performed.
 
-💞️  I've been working as a developer for +4 years now in some small and not so small companies from Latin America focus in Front End development and user experience.
+💞️  I've been working as a developer for +4 years now in some small and not so small companies from Latin America focused in Front End development and user experience.
 
 🌱  I’m currently learning Emberjs for my current job.
 
